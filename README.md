@@ -50,7 +50,7 @@ Before running this project locally, ensure you have the following installed:
 2. **Install dependencies**
 
     ```zsh
-    cd traveltrucks-frontend
+    cd traveltrucks
     npm install
 
 3. **Start the development server**
