@@ -1,7 +1,7 @@
 # TravelTrucks - Web app
 
 
-<img src="https://github.com/renerroll/TravelTrucks/blob/main/public/screens/homepage.png?raw=true" width="350" title="home page"> <img src="https://github.com/renerroll/TravelTrucks/blob/main/public/screens/filtering.png?raw=true" width="350" title="filtering">
+<img src="https://github.com/renerroll/TravelTrucks/blob/main/public/screens/homepage.png?raw=true" width="450" title="home page"> <img src="https://github.com/renerroll/TravelTrucks/blob/main/public/screens/filtering.png?raw=true" width="450" title="filtering">
 
 ## Project Summary
 This project is developed for **TravelTrucks**, a company specializing in camper rentals.
